@@ -1,17 +1,14 @@
 <!-- TITLE -->
 # Cats Hud
 ![cats](https://user-images.githubusercontent.com/42129397/163737015-4bc7e2d5-fcde-49b6-befd-8fe41f27a4b2.png)
-<p align="center">
-  <p align="center">
-    Pretty much just a customized version of <a href="https://github.com/raysfire/rayshud">RaysHud</a>. I might help solve issues I also might not, idk.
-  </p>
-</p>
+
 
 
 About
 -------
-
-Pretty much just a customized version of <a href="https://github.com/raysfire/rayshud">RaysHud</a>. I might help solve issues I also might not, idk.
+<p align="center">
+    Pretty much just a customized version of <a href="https://github.com/raysfire/rayshud">RaysHud</a>. I might help solve issues I also might not, idk.
+</p>
 
 Features
 -------
