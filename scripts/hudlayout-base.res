@@ -1458,6 +1458,18 @@
 		"alpha"					"100"
 	}
 
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"c-245"
+		"ypos"				"r25"
+		"wide"				"100"
+		"tall"				"20"
+		"visible" 			"1"
+		"enabled" 			"1"
+	}
+
 	"HUDAutoAim"			{ }
 	"HudHDRDemo"			{ }
 	"HudTrainingMsg"		{ }
