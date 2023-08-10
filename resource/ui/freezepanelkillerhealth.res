@@ -47,6 +47,7 @@
 		"xpos"			"3"
 		"ypos"			"3"
 		"zpos"			"5"
+		// "wide"			"26"
 		"wide"			"52"
 		"tall"			"26"
 		"visible"		"1"

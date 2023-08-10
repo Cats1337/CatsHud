@@ -16,9 +16,9 @@ Features
 > Pop Cat Hitsound
 > Lego Yoda Deathsound
 > PazerOP Bot Detection vote failed remover, but customized.
-> Critical Bap!!! & Mini Bop! (Not working yet)
 > Circle Crosshair
-> Quieter Detonator (Not working for some reason, probably a thing to do w/ sv_pure)
+> Quieter Detonator (sv_pure incompatable)
+> Critical Bap!!! & Mini Bop! (sv_pure incompatable)
 > Cats
 ```
 
